@@ -1,0 +1,10 @@
+Id factura: 4
+
+idClient: 1
+Name: Antonia
+Email: antonia10@gmail.com
+Address: Timisoara
+
+Produs: Iphone 5
+Cantitate: 2
+Pret total: 7000$

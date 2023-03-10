@@ -1,0 +1,10 @@
+Id factura: 5
+
+idClient: 5
+Name: Ana
+Email: ana2@yahoo.com
+Address: Cluj
+
+Produs: PS 6
+Cantitate: 12
+Pret total: 10800$
